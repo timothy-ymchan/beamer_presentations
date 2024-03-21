@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{AKLT Model}{3}{0}{1}
+\beamer@sectionintoc {2}{ZXH Calculus}{15}{0}{2}
+\beamer@sectionintoc {3}{1D AKLT as ZX diagrams}{29}{0}{3}
+\beamer@sectionintoc {4}{2D AKLT States as ZX diagram}{41}{0}{4}
+\beamer@sectionintoc {5}{Using PyZX}{54}{0}{5}
+\beamer@sectionintoc {6}{Appendix }{57}{1}{6}
