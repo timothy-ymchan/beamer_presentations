@@ -1,11 +1,11 @@
-This is LuaHBTeX, Version 1.15.0 (MiKTeX 22.7) (format=lualatex 2022.11.16)  21 MAR 2024 15:25
+This is LuaHBTeX, Version 1.15.0 (MiKTeX 22.7) (format=lualatex 2022.11.16)  9 APR 2024 17:52
  restricted system commands enabled.
  file:line:error style messages enabled.
-**"c:/Users/timot/OneDrive - The Chinese University of Hong Kong/Desktop/misc t
-rash/pyzx/AKLT states as ZH diagrams/main"
+**"c:/Users/timot/OneDrive/Documents/GitHub/beamer_presentations/AKLT states as
+ ZX diagrams/main"
 
-("c:/Users/timot/OneDrive - The Chinese University of Hong Kong/Desktop/misc tr
-ash/pyzx/AKLT states as ZH diagrams/main.tex"
+("c:/Users/timot/OneDrive/Documents/GitHub/beamer_presentations/AKLT states as 
+ZX diagrams/main.tex"
 LaTeX2e <2022-06-01> patch level 5
 Lua module: luaotfload 2022-06-15 3.22 Lua based OpenType font support
 Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
@@ -1076,9 +1076,9 @@ Package: wrapfig 2003/01/31  v 3.6
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 26.
 
-(./main.aux)
-\openout1 = main.aux
+No file main.aux.
 
+\openout1 = main.aux
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
@@ -1090,7 +1090,6 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 6.
-
 (C:/Users/timot/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1167,7 +1166,6 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 36.
- (./main.out) (./main.out)
 \@outlinefile=\write5
 
 \openout5 = main.out
@@ -1314,7 +1312,7 @@ LaTeX Font Info:    Font shape `TU/Epilogue(0)/b/n' will be
 (Font)              scaled to size 18.66588pt on input line 38.
 LaTeX Font Info:    Font shape `TU/Epilogue(0)/b/n' will be
 (Font)              scaled to size 9.85492pt on input line 38.
-<AICStyleData/logos/Logo shape dark_rotated.png, id=40, 792.9625pt x 446.66875p
+<AICStyleData/logos/Logo shape dark_rotated.png, id=12, 792.9625pt x 446.66875p
 t>
 File: AICStyleData/logos/Logo shape dark_rotated.png Graphic file (type png)
 <use AICStyleData/logos/Logo shape dark_rotated.png>
@@ -1324,17 +1322,13 @@ n input line 38.
  [1
 
 {C:/Users/timot/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./AICStyleData
-/logos/Logo shape dark_rotated.png>] (./main.toc
-LaTeX Font Info:    Font shape `TU/Epilogue(0)/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 1.
-LaTeX Font Info:    Font shape `TU/Epilogue(0)/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 1.
-)
+/logos/Logo shape dark_rotated.png>]
+No file main.toc.
 LaTeX Font Info:    Font shape `TU/Epilogue(0)/m/n' will be
 (Font)              scaled to size 15.55188pt on input line 43.
 LaTeX Font Info:    Font shape `TU/Epilogue(0)/b/n' will be
 (Font)              scaled to size 15.55188pt on input line 43.
-<AICStyleData/logos/Symbol_AIC_Neon_Blue.png, id=55, 413.545pt x 264.99pt>
+<AICStyleData/logos/Symbol_AIC_Neon_Blue.png, id=22, 413.545pt x 264.99pt>
 File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
 <use AICStyleData/logos/Symbol_AIC_Neon_Blue.png>
 Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
@@ -1342,7 +1336,7 @@ nput line 43.
 (luatex.def)             Requested size: 42.67912pt x 27.34561pt.
 LaTeX Font Info:    Font shape `TU/Epilogue(0)/m/n' will be
 (Font)              scaled to size 3.59998pt on input line 43.
- [2
+[2
 
 <./AICStyleData/logos/Symbol_AIC_Neon_Blue.png>]
 File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
@@ -1350,7 +1344,7 @@ File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
 Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
 nput line 46.
 (luatex.def)             Requested size: 42.67912pt x 27.34561pt.
-<AICStyleData/logos/Logo shape light_rotated.png, id=71, 710.655pt x 399.4925pt
+<AICStyleData/logos/Logo shape light_rotated.png, id=32, 710.655pt x 399.4925pt
 >
 File: AICStyleData/logos/Logo shape light_rotated.png Graphic file (type png)
 <use AICStyleData/logos/Logo shape light_rotated.png>
@@ -1405,7 +1399,7 @@ nput line 86.
 ] [7
 
 ]
-<figures/MPS_AKLT_chain.png, id=108, 395.076pt x 96.96225pt>
+<figures/MPS_AKLT_chain.png, id=71, 395.076pt x 96.96225pt>
 File: figures/MPS_AKLT_chain.png Graphic file (type png)
 <use figures/MPS_AKLT_chain.png>
 Package luatex.def Info: figures/MPS_AKLT_chain.png  used on input line 107.
@@ -1458,12 +1452,16 @@ nput line 174.
  [12
 
 ]
+
+LaTeX Warning: Citation `hatsugai2006quantized' on page 13 undefined on input l
+ine 185.
+
 File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
 <use AICStyleData/logos/Symbol_AIC_Neon_Blue.png>
 Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
 nput line 185.
 (luatex.def)             Requested size: 42.67912pt x 27.34561pt.
- [13
+[13
 
 ]
 File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
@@ -1471,8 +1469,7 @@ File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
 Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
 nput line 219.
 (luatex.def)             Requested size: 42.67912pt x 27.34561pt.
-
-[14
+ [14
 
 ]
 File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
@@ -1488,7 +1485,7 @@ on input line 222.
  [15
 
 ]
-<figures/zx_spiders.png, id=164, 476.982pt x 186.6975pt>
+<figures/zx_spiders.png, id=126, 476.982pt x 186.6975pt>
 File: figures/zx_spiders.png Graphic file (type png)
 <use figures/zx_spiders.png>
 Package luatex.def Info: figures/zx_spiders.png  used on input line 233.
@@ -1503,7 +1500,7 @@ nput line 233.
 <./figures/zx_spiders.png>] [17
 
 ]
-<figures/zx_rewrite_rules_p1.png, id=176, 878.0805pt x 308.95425pt>
+<figures/zx_rewrite_rules_p1.png, id=138, 878.0805pt x 308.95425pt>
 File: figures/zx_rewrite_rules_p1.png Graphic file (type png)
 <use figures/zx_rewrite_rules_p1.png>
 Package luatex.def Info: figures/zx_rewrite_rules_p1.png  used on input line 27
@@ -1514,10 +1511,14 @@ Overfull \hbox (21.9pt too wide) in paragraph at lines 273--273
  [] 
  []
 
+
+LaTeX Warning: Citation `zx_for_working_qcs' on page 18 undefined on input line
+ 273.
+
 [18
 
 <./figures/zx_rewrite_rules_p1.png>]
-<figures/zx_states.PNG, id=186, 1170.87437pt x 526.96875pt>
+<figures/zx_states.PNG, id=145, 1170.87437pt x 526.96875pt>
 File: figures/zx_states.PNG Graphic file (type png)
 <use figures/zx_states.PNG>
 Package luatex.def Info: figures/zx_states.PNG  used on input line 282.
@@ -1534,7 +1535,7 @@ Overfull \vbox (20.0047pt too high) detected at line 282
 [19
 
 <./figures/zx_states.PNG>]
-<figures/zx_common_gates.PNG, id=192, 1044.90375pt x 546.04pt>
+<figures/zx_common_gates.PNG, id=151, 1044.90375pt x 546.04pt>
 File: figures/zx_common_gates.PNG Graphic file (type png)
 <use figures/zx_common_gates.PNG>
 Package luatex.def Info: figures/zx_common_gates.PNG  used on input line 290.
@@ -1551,7 +1552,7 @@ Overfull \vbox (17.59114pt too high) detected at line 290
 [20
 
 <./figures/zx_common_gates.PNG>]
-<figures/zx_control_phases.PNG, id=198, 1003.75pt x 499.8675pt>
+<figures/zx_control_phases.PNG, id=157, 1003.75pt x 499.8675pt>
 File: figures/zx_control_phases.PNG Graphic file (type png)
 <use figures/zx_control_phases.PNG>
 Package luatex.def Info: figures/zx_control_phases.PNG  used on input line 299.
@@ -1569,7 +1570,7 @@ Overfull \vbox (8.99416pt too high) detected at line 299
 [21
 
 <./figures/zx_control_phases.PNG>]
-<figures/zx_cz_to_matrix.PNG, id=205, 865.2325pt x 285.065pt>
+<figures/zx_cz_to_matrix.PNG, id=164, 865.2325pt x 285.065pt>
 File: figures/zx_cz_to_matrix.PNG Graphic file (type png)
 <use figures/zx_cz_to_matrix.PNG>
 Package luatex.def Info: figures/zx_cz_to_matrix.PNG  used on input line 340.
@@ -1586,15 +1587,22 @@ Overfull \vbox (17.40079pt too high) detected at line 340
 [22
 
 <./figures/zx_cz_to_matrix.PNG>]
+LaTeX Font Info:    Font shape `TU/Epilogue(0)/b/n' will be
+(Font)              scaled to size 8.09995pt on input line 350.
+
+
+LaTeX Warning: Citation `zx_for_working_qcs' on page 23 undefined on input line
+ 350.
+
 File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
 <use AICStyleData/logos/Symbol_AIC_Neon_Blue.png>
 Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
 nput line 350.
 (luatex.def)             Requested size: 42.67912pt x 27.34561pt.
- [23
+[23
 
 ]
-<figures/zx_cnot_derivation.PNG, id=218, 982.67125pt x 432.61626pt>
+<figures/zx_cnot_derivation.PNG, id=175, 982.67125pt x 432.61626pt>
 File: figures/zx_cnot_derivation.PNG Graphic file (type png)
 <use figures/zx_cnot_derivation.PNG>
 Package luatex.def Info: figures/zx_cnot_derivation.PNG  used on input line 356
@@ -1608,7 +1616,7 @@ nput line 356.
  [24
 
 <./figures/zx_cnot_derivation.PNG>]
-<figures/zx_three_cnot_swap.PNG, id=224, 909.89937pt x 583.17876pt>
+<figures/zx_three_cnot_swap.PNG, id=181, 909.89937pt x 583.17876pt>
 File: figures/zx_three_cnot_swap.PNG Graphic file (type png)
 <use figures/zx_three_cnot_swap.PNG>
 Package luatex.def Info: figures/zx_three_cnot_swap.PNG  used on input line 362
@@ -1626,7 +1634,7 @@ Overfull \vbox (19.4233pt too high) detected at line 362
 [25
 
 <./figures/zx_three_cnot_swap.PNG>]
-<figures/zx_cx_cz_identities.PNG, id=230, 1011.78pt x 546.04pt>
+<figures/zx_cx_cz_identities.PNG, id=187, 1011.78pt x 546.04pt>
 File: figures/zx_cx_cz_identities.PNG Graphic file (type png)
 <use figures/zx_cx_cz_identities.PNG>
 Package luatex.def Info: figures/zx_cx_cz_identities.PNG  used on input line 36
@@ -1640,7 +1648,7 @@ nput line 368.
  [26
 
 <./figures/zx_cx_cz_identities.PNG>]
-<figures/zx_bell_state_prep.PNG, id=236, 1125.20375pt x 511.9125pt>
+<figures/zx_bell_state_prep.PNG, id=193, 1125.20375pt x 511.9125pt>
 File: figures/zx_bell_state_prep.PNG Graphic file (type png)
 <use figures/zx_bell_state_prep.PNG>
 Package luatex.def Info: figures/zx_bell_state_prep.PNG  used on input line 374
@@ -1655,7 +1663,7 @@ nput line 374.
 [27
 
 <./figures/zx_bell_state_prep.PNG>]
-<figures/zx_remove_oneone.png, id=242, 820.2645pt x 375.20175pt>
+<figures/zx_remove_oneone.png, id=199, 820.2645pt x 375.20175pt>
 File: figures/zx_remove_oneone.png Graphic file (type png)
 <use figures/zx_remove_oneone.png>
 Package luatex.def Info: figures/zx_remove_oneone.png  used on input line 381.
@@ -1695,7 +1703,7 @@ on input line 385.
  [29
 
 ]
-<figures/covalent_bond.png, id=256, 197.538pt x 121.6545pt>
+<figures/covalent_bond.png, id=215, 197.538pt x 121.6545pt>
 File: figures/covalent_bond.png Graphic file (type png)
 <use figures/covalent_bond.png>
 Package luatex.def Info: figures/covalent_bond.png  used on input line 394.
@@ -1708,7 +1716,7 @@ nput line 394.
  [30
 
 <./figures/covalent_bond.png>]
-<figures/spin_one_proj.png, id=263, 314.3745pt x 91.542pt>
+<figures/spin_one_proj.png, id=222, 314.3745pt x 91.542pt>
 File: figures/spin_one_proj.png Graphic file (type png)
 <use figures/spin_one_proj.png>
 Package luatex.def Info: figures/spin_one_proj.png  used on input line 405.
@@ -1722,7 +1730,7 @@ nput line 405.
 [31
 
 <./figures/spin_one_proj.png>]
-<figures/aklt_valence_bond.PNG, id=271, 890.82813pt x 303.1325pt>
+<figures/aklt_valence_bond.PNG, id=230, 890.82813pt x 303.1325pt>
 File: figures/aklt_valence_bond.PNG Graphic file (type png)
 <use figures/aklt_valence_bond.PNG>
 Package luatex.def Info: figures/aklt_valence_bond.PNG  used on input line 412.
@@ -1731,7 +1739,7 @@ Package luatex.def Info: figures/aklt_valence_bond.PNG  used on input line 412.
  [32
 
 <./figures/aklt_valence_bond.PNG>]
-<figures/aklt_valence_bond_plus_projector.PNG, id=277, 904.37875pt x 466.74374p
+<figures/aklt_valence_bond_plus_projector.PNG, id=236, 904.37875pt x 466.74374p
 t>
 File: figures/aklt_valence_bond_plus_projector.PNG Graphic file (type png)
 <use figures/aklt_valence_bond_plus_projector.PNG>
@@ -1745,7 +1753,7 @@ Overfull \vbox (1.55786pt too high) detected at line 420
 [33
 
 <./figures/aklt_valence_bond_plus_projector.PNG>]
-<figures/mpl_matrix_graph_reduction_m1.PNG, id=283, 387.24675pt x 298.11375pt>
+<figures/mpl_matrix_graph_reduction_m1.PNG, id=242, 387.24675pt x 298.11375pt>
 File: figures/mpl_matrix_graph_reduction_m1.PNG Graphic file (type png)
 <use figures/mpl_matrix_graph_reduction_m1.PNG>
 Package luatex.def Info: figures/mpl_matrix_graph_reduction_m1.PNG  used on inp
@@ -1758,7 +1766,7 @@ Overfull \vbox (48.08879pt too high) detected at line 427
 [34
 
 <./figures/mpl_matrix_graph_reduction_m1.PNG>]
-<figures/zx_hidden_string_order_strategy.png, id=290, 820.86674pt x 313.17pt>
+<figures/zx_hidden_string_order_strategy.png, id=249, 820.86674pt x 313.17pt>
 File: figures/zx_hidden_string_order_strategy.png Graphic file (type png)
 <use figures/zx_hidden_string_order_strategy.png>
 Package luatex.def Info: figures/zx_hidden_string_order_strategy.png  used on i
@@ -1772,7 +1780,7 @@ nput line 435.
  [35
 
 <./figures/zx_hidden_string_order_strategy.png>]
-<figures/zx_hidden_string_order_simplify_zero_projections.png, id=297, 843.15pt
+<figures/zx_hidden_string_order_simplify_zero_projections.png, id=256, 843.15pt
  x 216.81pt>
 File: figures/zx_hidden_string_order_simplify_zero_projections.png Graphic file
  (type png)
@@ -1780,7 +1788,7 @@ File: figures/zx_hidden_string_order_simplify_zero_projections.png Graphic file
 Package luatex.def Info: figures/zx_hidden_string_order_simplify_zero_projectio
 ns.png  used on input line 446.
 (luatex.def)             Requested size: 411.44409pt x 105.80113pt.
-<figures/zx_hidden_string_order_simplify_zero_projections_final.png, id=298, 34
+<figures/zx_hidden_string_order_simplify_zero_projections_final.png, id=257, 34
 6.29375pt x 222.8325pt>
 File: figures/zx_hidden_string_order_simplify_zero_projections_final.png Graphi
 c file (type png)
@@ -1804,7 +1812,7 @@ nput line 456.
  [37
 
 ]
-<figures/zx_berry_phase_state.png, id=311, 741.972pt x 422.7795pt>
+<figures/zx_berry_phase_state.png, id=270, 741.972pt x 422.7795pt>
 File: figures/zx_berry_phase_state.png Graphic file (type png)
 <use figures/zx_berry_phase_state.png>
 Package luatex.def Info: figures/zx_berry_phase_state.png  used on input line 4
@@ -1813,7 +1821,7 @@ Package luatex.def Info: figures/zx_berry_phase_state.png  used on input line 4
  [38
 
 <./figures/zx_berry_phase_state.png>]
-<figures/zx_berry_phase_integral.png, id=318, 829.29825pt x 462.528pt>
+<figures/zx_berry_phase_integral.png, id=277, 829.29825pt x 462.528pt>
 File: figures/zx_berry_phase_integral.png Graphic file (type png)
 <use figures/zx_berry_phase_integral.png>
 Package luatex.def Info: figures/zx_berry_phase_integral.png  used on input lin
@@ -1838,7 +1846,7 @@ on input line 483.
 [41
 
 ]
-<figures/two_dim_aklt_on_honeycomb.png, id=338, 377.0085pt x 307.74976pt>
+<figures/two_dim_aklt_on_honeycomb.png, id=299, 377.0085pt x 307.74976pt>
 File: figures/two_dim_aklt_on_honeycomb.png Graphic file (type png)
 <use figures/two_dim_aklt_on_honeycomb.png>
 Package luatex.def Info: figures/two_dim_aklt_on_honeycomb.png  used on input l
@@ -1856,7 +1864,7 @@ Overfull \vbox (36.35002pt too high) detected at line 491
 [42
 
 <./figures/two_dim_aklt_on_honeycomb.png>]
-<figures/spin_three_half_projector.png, id=345, 313.77225pt x 155.3805pt>
+<figures/spin_three_half_projector.png, id=306, 313.77225pt x 155.3805pt>
 File: figures/spin_three_half_projector.png Graphic file (type png)
 <use figures/spin_three_half_projector.png>
 Package luatex.def Info: figures/spin_three_half_projector.png  used on input l
@@ -1870,7 +1878,7 @@ nput line 498.
  [43
 
 <./figures/spin_three_half_projector.png>]
-<figures/zx_two_dim_aklt_on_honeycomb.png, id=352, 557.08125pt x 320.99925pt>
+<figures/zx_two_dim_aklt_on_honeycomb.png, id=313, 557.08125pt x 320.99925pt>
 File: figures/zx_two_dim_aklt_on_honeycomb.png Graphic file (type png)
 <use figures/zx_two_dim_aklt_on_honeycomb.png>
 Package luatex.def Info: figures/zx_two_dim_aklt_on_honeycomb.png  used on inpu
@@ -1879,17 +1887,21 @@ t line 505.
  [44
 
 <./figures/zx_two_dim_aklt_on_honeycomb.png>]
+
+LaTeX Warning: Citation `wei2011_aklt_honeycomb' on page 45 undefined on input 
+line 518.
+
 File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
 <use AICStyleData/logos/Symbol_AIC_Neon_Blue.png>
 Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
 nput line 518.
 (luatex.def)             Requested size: 42.67912pt x 27.34561pt.
- [45
+[45
 
 ] [46
 
 ]
-<figures/zx_graph_state.PNG, id=372, 1065.9825pt x 434.62375pt>
+<figures/zx_graph_state.PNG, id=330, 1065.9825pt x 434.62375pt>
 File: figures/zx_graph_state.PNG Graphic file (type png)
 <use figures/zx_graph_state.PNG>
 Package luatex.def Info: figures/zx_graph_state.PNG  used on input line 544.
@@ -1899,17 +1911,16 @@ File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
 Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
 nput line 544.
 (luatex.def)             Requested size: 42.67912pt x 27.34561pt.
-
-[47
+ [47
 
 <./figures/zx_graph_state.PNG>]
-<figures/povm_spiders_three_in_three_out.png, id=378, 202.356pt x 233.07076pt>
+<figures/povm_spiders_three_in_three_out.png, id=336, 202.356pt x 233.07076pt>
 File: figures/povm_spiders_three_in_three_out.png Graphic file (type png)
 <use figures/povm_spiders_three_in_three_out.png>
 Package luatex.def Info: figures/povm_spiders_three_in_three_out.png  used on i
 nput line 563.
 (luatex.def)             Requested size: 148.11942pt x 170.60966pt.
-<figures/povm_spiders_three_in_one_out.png, id=379, 214.401pt x 257.16075pt>
+<figures/povm_spiders_three_in_one_out.png, id=337, 214.401pt x 257.16075pt>
 File: figures/povm_spiders_three_in_one_out.png Graphic file (type png)
 <use figures/povm_spiders_three_in_one_out.png>
 Package luatex.def Info: figures/povm_spiders_three_in_one_out.png  used on inp
@@ -1919,7 +1930,7 @@ ut line 563.
 
 <./figures/povm_spiders_three_in_three_out.png><./figures/povm_spiders_three_in_
 one_out.png>]
-<figures/povm_measurment_simplified.png, id=387, 439.6425pt x 330.033pt>
+<figures/povm_measurment_simplified.png, id=345, 439.6425pt x 330.033pt>
 File: figures/povm_measurment_simplified.png Graphic file (type png)
 <use figures/povm_measurment_simplified.png>
 Package luatex.def Info: figures/povm_measurment_simplified.png  used on input 
@@ -1934,31 +1945,41 @@ Overfull \vbox (15.19261pt too high) detected at line 571
 <./figures/povm_measurment_simplified.png>] [50
 
 ]
-<figures/zx_graph_reduce_1.png, id=399, 457.71pt x 127.07475pt>
+<figures/zx_graph_reduce_1.png, id=357, 457.71pt x 127.07475pt>
 File: figures/zx_graph_reduce_1.png Graphic file (type png)
 <use figures/zx_graph_reduce_1.png>
 Package luatex.def Info: figures/zx_graph_reduce_1.png  used on input line 593.
 
 (luatex.def)             Requested size: 329.15652pt x 91.3871pt.
- [51
+
+
+LaTeX Warning: Citation `wei2011_aklt_honeycomb' on page 51 undefined on input 
+line 593.
+
+[51
 
 <./figures/zx_graph_reduce_1.png>]
-<figures/zx_graph_reduce_2.png, id=409, 755.82375pt x 137.313pt>
+<figures/zx_graph_reduce_2.png, id=365, 755.82375pt x 137.313pt>
 File: figures/zx_graph_reduce_2.png Graphic file (type png)
 <use figures/zx_graph_reduce_2.png>
 Package luatex.def Info: figures/zx_graph_reduce_2.png  used on input line 608.
 
 (luatex.def)             Requested size: 329.15652pt x 59.79771pt.
-<figures/zx_graph_reduce_3.png, id=410, 624.53325pt x 46.9755pt>
+<figures/zx_graph_reduce_3.png, id=366, 624.53325pt x 46.9755pt>
 File: figures/zx_graph_reduce_3.png Graphic file (type png)
 <use figures/zx_graph_reduce_3.png>
 Package luatex.def Info: figures/zx_graph_reduce_3.png  used on input line 608.
 
 (luatex.def)             Requested size: 329.15652pt x 24.75783pt.
- [52
+
+
+LaTeX Warning: Citation `wei2011_aklt_honeycomb' on page 52 undefined on input 
+line 608.
+
+[52
 
 <./figures/zx_graph_reduce_2.png><./figures/zx_graph_reduce_3.png>]
-<figures/zx_graph_reduce_4.png, id=420, 742.57425pt x 477.58424pt>
+<figures/zx_graph_reduce_4.png, id=374, 742.57425pt x 477.58424pt>
 File: figures/zx_graph_reduce_4.png Graphic file (type png)
 <use figures/zx_graph_reduce_4.png>
 Package luatex.def Info: figures/zx_graph_reduce_4.png  used on input line 614.
@@ -1984,7 +2005,7 @@ on input line 617.
  [54
 
 ]
-<figures/fpyzx.png, id=434, 762.18773pt x 466.40227pt>
+<figures/fpyzx.png, id=390, 762.18773pt x 466.40227pt>
 File: figures/fpyzx.png Graphic file (type png)
 <use figures/fpyzx.png>
 Package luatex.def Info: figures/fpyzx.png  used on input line 628.
@@ -2039,7 +2060,7 @@ nput line 669.
  [58
 
 ]
-<figures/zx_rewrite_rules_p2.png, id=458, 454.69875pt x 257.763pt>
+<figures/zx_rewrite_rules_p2.png, id=416, 454.69875pt x 257.763pt>
 File: figures/zx_rewrite_rules_p2.png Graphic file (type png)
 <use figures/zx_rewrite_rules_p2.png>
 Package luatex.def Info: figures/zx_rewrite_rules_p2.png  used on input line 67
@@ -2052,7 +2073,7 @@ Overfull \vbox (12.06265pt too high) detected at line 675
 [59
 
 <./figures/zx_rewrite_rules_p2.png>]
-<figures/zx_rewrite_rules_p3.png, id=465, 853.38824pt x 436.63126pt>
+<figures/zx_rewrite_rules_p3.png, id=423, 853.38824pt x 436.63126pt>
 File: figures/zx_rewrite_rules_p3.png Graphic file (type png)
 <use figures/zx_rewrite_rules_p3.png>
 Package luatex.def Info: figures/zx_rewrite_rules_p3.png  used on input line 68
@@ -2069,7 +2090,7 @@ nput line 692.
 [61
 
 ]
-<figures/cswap_two_qbit.png, id=478, 191.5155pt x 83.1105pt>
+<figures/cswap_two_qbit.png, id=436, 191.5155pt x 83.1105pt>
 File: figures/cswap_two_qbit.png Graphic file (type png)
 <use figures/cswap_two_qbit.png>
 Package luatex.def Info: figures/cswap_two_qbit.png  used on input line 706.
@@ -2121,18 +2142,60 @@ nput line 773.
 File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
 <use AICStyleData/logos/Symbol_AIC_Neon_Blue.png>
 Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
-nput line 854.
+nput line 831.
 (luatex.def)             Requested size: 42.67912pt x 27.34561pt.
+File: AICStyleData/logos/Logo shape light_rotated.png Graphic file (type png)
+<use AICStyleData/logos/Logo shape light_rotated.png>
+Package luatex.def Info: AICStyleData/logos/Logo shape light_rotated.png  used 
+on input line 831.
+(luatex.def)             Requested size: 455.24408pt x 255.91815pt.
  [71
+
+]
+
+LaTeX Warning: File `figures/zx_cnot_swap.PNG' not found on input line 837.
+
+
+c:/Users/timot/OneDrive/Documents/GitHub/beamer_presentations/AKLT states as ZX 
+diagrams/main.tex:837: Package luatex.def Error: File `figures/zx_cnot_swap.PNG
+' not found: using draft setting.
+
+See the luatex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.837 \end{frame}
+               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
+<use AICStyleData/logos/Symbol_AIC_Neon_Blue.png>
+Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
+nput line 837.
+(luatex.def)             Requested size: 42.67912pt x 27.34561pt.
+
+Overfull \vbox (246.38832pt too high) detected at line 837
+ []
+
+[72
+
+]
+File: AICStyleData/logos/Symbol_AIC_Neon_Blue.png Graphic file (type png)
+<use AICStyleData/logos/Symbol_AIC_Neon_Blue.png>
+Package luatex.def Info: AICStyleData/logos/Symbol_AIC_Neon_Blue.png  used on i
+nput line 862.
+(luatex.def)             Requested size: 42.67912pt x 27.34561pt.
+ [73
 
 <C:/Users/timot/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonarticle
 .pdf>]
 File: AICStyleData/logos/Logo shape dark_rotated.png Graphic file (type png)
 <use AICStyleData/logos/Logo shape dark_rotated.png>
 Package luatex.def Info: AICStyleData/logos/Logo shape dark_rotated.png  used o
-n input line 861.
+n input line 869.
 (luatex.def)             Requested size: 455.24408pt x 256.43723pt.
- [72
+ [74
 
 ]
 \tf@nav=\write6
@@ -2145,49 +2208,62 @@ n input line 861.
 
 \openout8 = main.snm
  (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 03F3087CCD7D9F17252152CDA8292DA9;841.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  B115FB1E26E381A56871B6BFF51A8D14;1087.
 )
 
 Here is how much of LuaTeX's memory you used:
- 31277 strings out of 477475
+ 31355 strings out of 477475
  100000,1144653 words of node,token memory allocated
- 3502 words of node memory still in use:
-   38 hlist, 9 vlist, 5 rule, 8 disc, 6 local_par, 108 glue, 31 kern, 16 penalty
-, 150 glyph, 102 attribute, 62 glue_spec, 102 attribute_list, 5 write, 1 save_po
+ 3490 words of node memory still in use:
+   38 hlist, 9 vlist, 5 rule, 8 disc, 6 local_par, 108 glue, 30 kern, 16 penalty
+, 149 glyph, 102 attribute, 62 glue_spec, 102 attribute_list, 5 write, 1 save_po
 s, 17 pdf_literal, 12 pdf_colorstack nodes
-   avail lists: 2:640,3:201,4:210,5:410,6:39,7:2854,8:59,9:955,10:23,11:166
- 50110 multiletter control sequences out of 65536+600000
- 129 fonts using 13139047 bytes
- 128i,22n,126p,601b,885s stack positions out of 10000i,1000n,20000p,200000b,80000s
+   avail lists: 2:638,3:201,4:210,5:411,6:39,7:2855,8:59,9:955,10:23,11:166
+ 50137 multiletter control sequences out of 65536+600000
+ 129 fonts using 13081767 bytes
+ 128i,22n,126p,577b,885s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <//?/c:/users/timot/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmon
 o9-regular.otf><//?/c:/users/timot/appdata/local/programs/miktex/fonts/opentype/
-public/lm/lmroman10-regular.otf><//?/c:/users/timot/appdata/local/programs/mikte
-x/fonts/opentype/public/lm/lmromandemi10-regular.otf><./AICStyleData/epilogueFon
-t/Epilogue-Italic.ttf><./AICStyleData/epilogueFont/Epilogue-Regular.ttf><./AICSt
-yleData/epilogueFont/Epilogue-Bold.ttf><C:/Users/timot/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/timot/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/timot/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/timot/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/t
-imot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C
-:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/
-cmmib8.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr17.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr6.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/timot/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/timot/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/timot/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/timot/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/timot
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/User
-s/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.p
-fb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/sym
-bols/msbm10.pfb>
-Output written on main.pdf (72 pages, 5414737 bytes).
+public/lm/lmmono10-regular.otf><//?/c:/users/timot/appdata/local/programs/miktex
+/fonts/opentype/public/lm/lmroman10-regular.otf><//?/c:/users/timot/appdata/loca
+l/programs/miktex/fonts/opentype/public/lm/lmromandemi10-regular.otf><./AICStyle
+Data/epilogueFont/Epilogue-Italic.ttf><./AICStyleData/epilogueFont/Epilogue-Regu
+lar.ttf><./AICStyleData/epilogueFont/Epilogue-Bold.ttf><C:/Users/timot/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/timot/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users
+/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
+:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9
+.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmib10.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cmextra/cmmib8.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/timot/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/timot/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/timot/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/timot/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/tim
+ot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Us
+ers/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy9.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/euler/eufm10.pfb><C:/Users/timot/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (74 pages, 5416474 bytes).
 
-PDF statistics: 643 PDF objects out of 1000 (max. 8388607)
- 155 named destinations out of 1000 (max. 131072)
- 82 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 623 PDF objects out of 1000 (max. 8388607)
+ 160 named destinations out of 1000 (max. 131072)
+ 26 words of extra memory for PDF output out of 10000 (max. 100000000)
 

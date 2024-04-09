@@ -4,3 +4,4 @@
 \beamer@sectionintoc {4}{2D AKLT States as ZX diagram}{41}{0}{4}
 \beamer@sectionintoc {5}{Using PyZX}{54}{0}{5}
 \beamer@sectionintoc {6}{Appendix }{57}{1}{6}
+\beamer@sectionintoc {7}{More examples using ZX rewrite rules}{71}{1}{7}

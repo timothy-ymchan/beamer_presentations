@@ -162,12 +162,19 @@
 \headcommand {\beamer@framepages {69}{69}}
 \headcommand {\slideentry {6}{0}{13}{70/70}{}{1}}
 \headcommand {\beamer@framepages {70}{70}}
-\headcommand {\slideentry {6}{0}{14}{71/71}{}{1}}
+\headcommand {\beamer@sectionpages {57}{70}}
+\headcommand {\beamer@subsectionpages {57}{70}}
+\headcommand {\sectionentry {7}{More examples using ZX rewrite rules}{71}{More examples using ZX rewrite rules}{1}}
+\headcommand {\slideentry {7}{0}{0}{71/71}{}{1}}
 \headcommand {\beamer@framepages {71}{71}}
-\headcommand {\slideentry {6}{0}{15}{72/72}{}{1}}
+\headcommand {\slideentry {7}{0}{1}{72/72}{}{1}}
 \headcommand {\beamer@framepages {72}{72}}
-\headcommand {\beamer@partpages {57}{72}}
-\headcommand {\beamer@subsectionpages {57}{72}}
-\headcommand {\beamer@sectionpages {57}{72}}
-\headcommand {\beamer@documentpages {72}}
-\headcommand {\gdef \inserttotalframenumber {66}}
+\headcommand {\slideentry {7}{0}{2}{73/73}{}{1}}
+\headcommand {\beamer@framepages {73}{73}}
+\headcommand {\slideentry {7}{0}{3}{74/74}{}{1}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\beamer@partpages {57}{74}}
+\headcommand {\beamer@subsectionpages {57}{74}}
+\headcommand {\beamer@sectionpages {57}{74}}
+\headcommand {\beamer@documentpages {74}}
+\headcommand {\gdef \inserttotalframenumber {67}}
